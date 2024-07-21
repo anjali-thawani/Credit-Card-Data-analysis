@@ -19,6 +19,10 @@ Credit card companies handle vast amounts of transaction data every day. Analyzi
 - The amount is spent in these top three categories bills(22%), food(20%) and fuel(19%),
 - 76% of the total amount spent in 4 cities.
 - 75% of the total population are from 4 cities.
+- 1.148% of the custumores have done transaction of more than 300000.
+- There are 59% less transactions in 2015 compared to 2014
+- Highest Number of Transactions are in Bengaluru 542
+- Mostly Used card type is Silver 6840
 
 ![Screenshot (297)](https://github.com/user-attachments/assets/c41361ba-6b04-4a6b-8bc9-7c8e718c5fc0)
 
