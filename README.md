@@ -24,7 +24,7 @@ Credit card companies handle vast amounts of transaction data every day. Analyzi
 - Highest Number of Transactions are in Bengaluru 542
 - Mostly Used card type is Silver 6840
 
-![Screenshot (297)](https://github.com/user-attachments/assets/c41361ba-6b04-4a6b-8bc9-7c8e718c5fc0)
+![Screenshot (300)](https://github.com/user-attachments/assets/1d27e946-47af-4fa4-adf6-53868903d77b)
 
 ![Screenshot (298)](https://github.com/user-attachments/assets/a4a80732-415c-4ead-b4d7-f65afb08e19c)
 
